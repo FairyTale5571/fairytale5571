@@ -1,33 +1,18 @@
-<h2> Welcome 👋 , I'm Aleksander Onopchenko.</h2>
+# 💫 About Me:
+🔭 I’m currently working on Health Care project, Web Backend<br>🌱 I’m currently learning - React, JS/TS
 
-I'm a software developer, I am developing back-end applications, bots, etc.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aleksandr-onopchenko-72a6a3187/) 
 
-- 🗄 &nbsp;Backend:&nbsp;
-  ![GoLang](https://go.dev/images/go-logo-white.svg)
-- 🛢 &nbsp;Database:&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
-  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
-- ⚙️ &nbsp;VCS: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-0A1A2F?style=flat&logo=markdown)  
-- 🔧 &nbsp;IDE's:&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fairytale5571&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Fairytale5571&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fairytale5571&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<!--
-**FairyTale5571/fairytale5571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+[![](https://visitcount.itsvg.in/api?id=Fairytale5571&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
