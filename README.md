@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Health Care project, Web Backend<br>🌱 I’m currently learning - React, JS/TS
-💻 Core Stack: Go. Mainly focused on Backend & DevOps.
+- 🔭 I’m currently working on Health Care project, Web Backend
+- 🌱 I’m currently learning - React, JS/TS
 
 
 ## 🌐 Socials:
