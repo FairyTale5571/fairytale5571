@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 💻 Core Stack: Go. Mainly focused on Backend & DevOps.
-- 🔭 I’m currently working on Health Care project, Web Backend
-- 🌱 I’m currently learning - React, JS/TS
+- 🔭 I’m currently working on Banking backend, Web Backend
 
 
 ## 🌐 Socials:
