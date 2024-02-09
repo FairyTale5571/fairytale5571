@@ -1,6 +1,7 @@
 # 💫 About Me:
 - 💻 Core Stack: Go. Mainly focused on Backend & DevOps.
 - 🔭 I’m currently working on Banking backend, Web Backend
+- 👨‍🏫 Studying Solidity/Web3, JS/TS
 
 
 ## 🌐 Socials:
